@@ -1,0 +1,41 @@
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogin.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Accounts.Register.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmAdminDashboard.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmStudentDashboard.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmStudentManagement.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmBookManagement.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmBookBorrowing.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmAuthorManagement.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmBorrowHistory.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Accounts.InvalidLogin.resources
+C:\Users\Mark Andrew\Documents\3rd Year School Stuff\1st Semester\CS-IMDBSYS31\LibSys\Final Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmAvailBooks.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Accounts.InvalidLogin.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Accounts.Register.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmBookBorrowing.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmBookManagement.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmAuthorManagement.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmStudentManagement.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmAdminDashboard.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogin.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmBorrowHistory.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmAvailBooks.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Admin.frmStudentDashboard.resources
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Prince\Downloads\System-20231217T124500Z-001\System\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
